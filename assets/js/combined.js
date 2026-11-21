@@ -264,25 +264,22 @@ async function loadBooksTable() {
 }
 
 function parseCSV(text) {
-    const lines = text.split('\n');
+    const lines = text.split(/\r?\n/);
     return lines.map(line => {
         const result = [];
         let current = '';
         let inQuotes = false;
-        let inHtmlTag = false;
         
         for (let i = 0; i < line.length; i++) {
             const char = line[i];
             if (char === '"') {
-                inQuotes = !inQuotes;
-                current += char;
-            } else if (char === '<' && !inQuotes) {
-                inHtmlTag = true;
-                current += char;
-            } else if (char === '>' && !inQuotes) {
-                inHtmlTag = false;
-                current += char;
-            } else if (char === ',' && !inQuotes && !inHtmlTag) {
+                if (inQuotes && i + 1 < line.length && line[i + 1] === '"') {
+                    current += '"';
+                    i++;
+                } else {
+                    inQuotes = !inQuotes;
+                }
+            } else if (char === ',' && !inQuotes) {
                 result.push(current);
                 current = '';
             } else {
