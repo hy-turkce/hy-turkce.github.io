@@ -38,9 +38,41 @@
         .toolbar button:hover {
             background: #e0e0e0;
         }
+        .toolbar button.primary {
+            background: #1976d2;
+            color: white;
+            border-color: #1976d2;
+        }
+        .toolbar button.primary:hover {
+            background: #1565c0;
+        }
         .toolbar span {
             margin-left: auto;
             font-size: 14px;
+        }
+        #search-bar {
+            margin-left: auto;
+            font-size: 14px;
+            color: #666;
+            display: none;
+            align-items: center;
+            gap: 8px;
+        }
+        #search-bar input {
+            padding: 6px 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+            width: 200px;
+        }
+        #search-bar button {
+            background: #1976d2;
+            color: white;
+        }
+        #search-result {
+            font-size: 13px;
+            color: #1976d2;
+            font-weight: 500;
         }
         #pdf-container {
             flex: 1;
@@ -67,6 +99,13 @@
             <button onclick="prevPage()">Previous</button>
             <button onclick="nextPage()">Next</button>
             <span id="page-info">Page 0 of 0</span>
+
+            <div id="search-bar">
+                <input type="text" id="search-input" placeholder="PDF'de ara...">
+                <button id="search-btn" class="primary">Ara</button>
+                <button id="search-close" style="background:#dc3545;border-color:#dc3545;">Kapat</button>
+                <span id="search-result"></span>
+            </div>
         </div>
         <div id="pdf-container">
             <canvas id="pdf-canvas"></canvas>
@@ -88,6 +127,10 @@
         let pageNumPending = null;
         const canvas = document.getElementById('pdf-canvas');
         const ctx = canvas.getContext('2d');
+
+        // Search state
+        let searchMatches = [];
+        let currentMatchIndex = -1;
 
         // Check for ?file= URL parameter
         window.addEventListener('DOMContentLoaded', () => {
@@ -132,6 +175,7 @@
                 pageNum = 1;
                 renderPage(pageNum);
                 updatePageInfo();
+                resetSearch();
             } catch (error) {
                 console.error('Error loading PDF:', error);
                 alert('Error loading PDF file');
@@ -183,6 +227,91 @@
         function updatePageInfo() {
             document.getElementById('page-info').textContent = `Page ${pageNum} of ${pdfDoc ? pdfDoc.numPages : 0}`;
         }
+
+        // ---- Search functionality ----
+        const searchBar = document.getElementById('search-bar');
+        const searchInput = document.getElementById('search-input');
+        const searchBtn = document.getElementById('search-btn');
+        const searchClose = document.getElementById('search-close');
+        const searchResult = document.getElementById('search-result');
+
+        function toggleSearch() {
+            if (searchBar.style.display === 'none') {
+                searchBar.style.display = 'flex';
+                searchInput.focus();
+            } else {
+                searchBar.style.display = 'none';
+                currentMatchIndex = -1;
+                searchMatches = [];
+                searchResult.textContent = '';
+                pdfDoc.getPage(pageNum).then(page => {
+                    const viewport = page.getViewport({ scale: 1.5 });
+                    canvas.height = viewport.height;
+                    canvas.width = viewport.width;
+                    page.render({ canvasContext: ctx, viewport: viewport });
+                });
+            }
+        }
+
+        async function doSearch() {
+            const phrase = searchInput.value.trim();
+            if (!phrase || !pdfDoc) return;
+
+            searchMatches = [];
+            currentMatchIndex = -1;
+
+            for (let i = 1; i <= pdfDoc.numPages; i++) {
+                const page = await pdfDoc.getPage(i);
+                const textContent = await page.getTextContent();
+                const text = textContent.items.map(item => item.str).join(' ');
+                const regex = new RegExp(phrase, 'gi');
+                let match;
+                while ((match = regex.exec(text)) !== null) {
+                    searchMatches.push({ page: i, index: match.index });
+                }
+            }
+
+            if (searchMatches.length > 0) {
+                currentMatchIndex = 0;
+                highlightMatch(searchMatches[0]);
+                searchResult.textContent = `${currentMatchIndex + 1} / ${searchMatches.length}`;
+            } else {
+                searchResult.textContent = 'Bulunamadı';
+            }
+        }
+
+        function highlightMatch(match) {
+            if (!match) return;
+            pdfDoc.getPage(match.page).then(page => {
+                const viewport = page.getViewport({ scale: 1.5 });
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+                page.render({ canvasContext: ctx, viewport: viewport }).promise.then(() => {
+                    pageNum = match.page;
+                    updatePageInfo();
+                });
+            });
+        }
+
+        searchBtn.addEventListener('click', doSearch);
+        searchInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') doSearch();
+        });
+        searchClose.addEventListener('click', toggleSearch);
+
+        function resetSearch() {
+            searchMatches = [];
+            currentMatchIndex = -1;
+            searchResult.textContent = '';
+        }
+
+        // Toggle search with Ctrl+F
+        document.addEventListener('keydown', function(e) {
+            if (e.ctrlKey && e.key === 'f') {
+                e.preventDefault();
+                toggleSearch();
+            }
+        });
     </script>
 </body>
 
