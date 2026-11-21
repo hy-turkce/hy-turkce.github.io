@@ -429,9 +429,15 @@ See https://github.com/adobe-type-tools/cmap-resources
 
   function doSearch() {
     var phrase = searchInput.value.trim();
-    if (phrase && typeof PDFViewerApplication !== 'undefined') {
-      PDFViewerApplication.find(phrase);
-      searchResult.textContent = 'Arama: "' + phrase + '"';
+    if (phrase && typeof PDFViewerApplication !== 'undefined' && PDFViewerApplication !== null && typeof PDFViewerApplication.find === 'function') {
+      try {
+        PDFViewerApplication.find(phrase);
+        searchResult.textContent = 'Arama: "' + phrase + '"';
+      } catch(e) {
+        searchResult.textContent = 'Arama hatası: ' + e.message;
+      }
+    } else if (phrase && (typeof PDFViewerApplication === 'undefined' || PDFViewerApplication === null)) {
+      searchResult.textContent = 'PDF görüntüleyici henüz yüklenmedi, lütfen bekleyin...';
     }
   }
 
