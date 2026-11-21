@@ -32,34 +32,26 @@ async function loadBooksTable() {
             tdName.textContent = row[1];
             tr.appendChild(tdName);
             
-            // Extract paths from CSV links - extract from HTML anchor tags
-            // All three links are combined in row[2] as comma-separated anchor tags
+            // Extract paths from CSV links - each column has its own anchor tag
+            // row[2] = PDF, row[3] = ePub, row[4] = DOC
             let pdfPath = null, epubPath = null, docPath = null;
             
+            // Extract PDF path from row[2]
             if (row[2]) {
-                // Split the combined HTML string by </a> to get individual anchor tags
-                const links = row[2].split(/<\/a>/);
-                
-                links.forEach(link => {
-                    if (!link.includes('<a')) return;
-                    
-                    // Check if this is PDF link (contains file= parameter)
-                    if (link.includes('PDF')) {
-                        // Extract the file parameter value from nested quotes
-                        const fileMatch = link.match(/file="([^"]+)"/);
-                        if (fileMatch) pdfPath = fileMatch[1];
-                    }
-                    // Check if this is EPUB link (contains #)
-                    else if (link.includes('ePub')) {
-                        const hashMatch = link.match(/#([^" >]+)/);
-                        if (hashMatch) epubPath = hashMatch[1];
-                    }
-                    // Check if this is DOC link
-                    else if (link.includes('DOC')) {
-                        const hrefMatch = link.match(/href="([^"]+)"/);
-                        if (hrefMatch) docPath = hrefMatch[1];
-                    }
-                });
+                const fileMatch = row[2].match(/file="([^"]+)"/);
+                if (fileMatch) pdfPath = fileMatch[1];
+            }
+            
+            // Extract EPUB path from row[3]
+            if (row[3]) {
+                const hashMatch = row[3].match(/#([^" >]+)/);
+                if (hashMatch) epubPath = hashMatch[1];
+            }
+            
+            // Extract DOC path from row[4]
+            if (row[4]) {
+                const hrefMatch = row[4].match(/href="([^"]+)"/);
+                if (hrefMatch) docPath = hrefMatch[1];
             }
             
             console.log(`Row ${index} - PDF path:`, pdfPath);
