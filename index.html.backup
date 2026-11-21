@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
-<link rel="canonical" href="https://hykulliyat.github.io/" >
+<link rel="canonical" href="https://hy-turkce.github.io/" >
 
 <title>Harun Yahya Külliyatı | Online Oku veya İndir</title> <meta name="description" content="Harun Yahya'nın tüm külliyatını (298 adet eser) online okuyun veya e-kitap (PDF, EPUB, ODT) olarak ücretsiz indirin." >
 
@@ -18,22 +18,22 @@
 
 <meta name="twitter:card" content="summary_large_image" >
 <meta name="twitter:title" content="Harun Yahya Külliyatı | Oku veya İndir" >
-<meta name="twitter:image" content="https://hykulliyat.github.io/assets/img/HarunYahya.png" >
+<meta name="twitter:image" content="https://hy-turkce.github.io/assets/img/HarunYahya.png" >
 <meta name="twitter:site" content="@zekidem20379657" >
 
 <meta property="og:title" content="Harun Yahya Külliyatı | Online Kitap Oku VEYA İNDİR" >
 <meta property="og:description" content="Harun Yahya'nın tüm külliyatını (298 adet eser) ücretsiz e-kitap (PDF, EPUB) olarak indirin." > <meta property="og:site_name" content="Harun Yahya Külliyatı" >
 <meta property="og:locale" content="tr_TR" >
 <meta property="og:type" content="book.list" >
-<meta property="og:url" content="https://hykulliyat.github.io" >
+<meta property="og:url" content="https://hy-turkce.github.io" >
 
-  <meta property="og:image" content="https://hykulliyat.github.io/assets/img/HarunYahya.png" >
-  <meta property="og:image:secure_url" content="https://hykulliyat.github.io/assets/img/HarunYahya.png" >
+  <meta property="og:image" content="https://hy-turkce.github.io/assets/img/HarunYahya.png" >
+  <meta property="og:image:secure_url" content="https://hy-turkce.github.io/assets/img/HarunYahya.png" >
   <meta property="og:image:type" content="image/png" >
   <meta property="og:image:alt" content="HARUN YAHYA KÜLLİYATI KAPAK GÖRSELİ">
   <meta property="og:image:width" content="1200" >
   <meta property="og:image:height" content="630" >
-  <link rel="alternate" type="application/rss+xml" title="Online Oku VEYA iNDİR" href="https://hykulliyat.github.io/feed.rss" >
+  <link rel="alternate" type="application/rss+xml" title="Online Oku VEYA iNDİR" href="https://hy-turkce.github.io/feed.rss" >
 
 
 <script type="application/ld+json">
@@ -42,8 +42,8 @@
   "@type" : "CollectionPage",
   "name" : "HARUN YAHYA KÜLLİYATI - Oku veya İndir",
   "description" : "Harun Yahya'nın tüm külliyatını (298 adet eser) online okuyun veya e-kitap (PDF, EPUB, ODT) olarak ücretsiz indirin.",
-  "url": "https://hykulliyat.github.io/",
-  "image" : "https://hykulliyat.github.io/assets/img/HarunYahya.png",
+  "url": "https://hy-turkce.github.io/",
+  "image" : "https://hy-turkce.github.io/assets/img/HarunYahya.png",
   "publisher" : {
     "@type" : "Organization",
     "name" : "HARUN YAHYA KÜLLİYATI"
@@ -54,7 +54,7 @@
 </script>
 
 
-<link rel="alternate" type="application/rss+xml" title="Online Oku veya İndir" href="https://hykulliyat.github.io/feed.rss" >
+<link rel="alternate" type="application/rss+xml" title="Online Oku veya İndir" href="https://hy-turkce.github.io/feed.rss" >
 
 
 <link rel="apple-touch-icon" sizes="57x57" href="assets/icons/apple-icon-57x57.png">
@@ -145,9 +145,9 @@ function searchTable2() {
 <br>
 <!--Social icons -->
 <div class="container">
- <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fhykulliyat.github.io%2F&t=Adnan-Harun-Yahya-Külliyatı" title="Facebook'ta paylaş" target="_blank"><img alt="indir" title="HARUN YAHYA" src="/assets/img/Facebook.png" ></a>
-  <a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fhykulliyat.github.io%2F&text=AdnanHarunYahyaKülliyatı:%20http%3A%2F%2Fhykulliyat.github.io%2F" target="_blank" title="Twitter'da paylaş"><img alt="indir" title="HARUN YAHYA" src="/assets/img/Twitter.png" ></a>
-  <a href="https://hykulliyat.github.io/feed.rss" target="_blank" title="Feed RSS"><img alt="indir" title="HARUN YAHYA" src="/assets/img/feed.png" ></a>
+ <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fhy-turkce.github.io%2F&t=Adnan-Harun-Yahya-Külliyatı" title="Facebook'ta paylaş" target="_blank"><img alt="indir" title="HARUN YAHYA" src="/assets/img/Facebook.png" ></a>
+  <a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fhy-turkce.github.io%2F&text=AdnanHarunYahyaKülliyatı:%20http%3A%2F%2Fhy-turkce.github.io%2F" target="_blank" title="Twitter'da paylaş"><img alt="indir" title="HARUN YAHYA" src="/assets/img/Twitter.png" ></a>
+  <a href="https://hy-turkce.github.io/feed.rss" target="_blank" title="Feed RSS"><img alt="indir" title="HARUN YAHYA" src="/assets/img/feed.png" ></a>
 
 
 </div>
@@ -288,282 +288,282 @@ function searchTable2() {
     <tr>
         <td>1</td>
         <td>23. Söz</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/23Soz.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/23Soz.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/23Soz.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/23Soz.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/23Soz.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/23Soz.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>2</td>
         <td>Âyet-ül Kübrâ</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Akubra.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Akubra.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Akubra.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Akubra.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Akubra.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Akubra.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>3</td>
         <td>Asar-ı Bediyye</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/AsarEnvarHD.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/AsarEnvarHD.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/AsarEnvarHD.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/AsarEnvarHD.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/AsarEnvarHD.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/AsarEnvarHD.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>4</td>
         <td>Asâ-yı Mûsa</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Asayi-Musa.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Asayi-Musa.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Asayi-Musa.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Asayi-Musa.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Asayi-Musa.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Asayi-Musa.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>5</td>
         <td>Barla Lahikası</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/barla.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/barla.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/barla.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/barla.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/barla.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/barla.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>6</td>
         <td>Bediüzzman Cevap Veriyor</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/BCevabVeriyorDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/BCevabVeriyorDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/BCevabVeriyorDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/BCevabVeriyorDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/BCevabVeriyorDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/BCevabVeriyorDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>7</td>
         <td>Divan-ı Harb-i Örfî</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/DHOrfiDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/DHOrfiDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/DHOrfiDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/DHOrfiDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/DHOrfiDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/DHOrfiDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>8</td>
         <td>Emirdağ Lâhikası</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Emirdag1Duzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Emirdag1Duzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Emirdag1Duzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Emirdag1Duzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Emirdag1Duzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Emirdag1Duzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>9</td>
         <td>Gençlik Rehberi</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Genclik.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Genclik.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Genclik.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Genclik.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Genclik.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Genclik.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>10</td>
         <td>Hanımlar Rehberi</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/HanımlarRehberi.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/HanımlarRehberi.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/HanımlarRehberi.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/HanımlarRehberi.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/HanımlarRehberi.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/HanımlarRehberi.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>11</td>
         <td>Haşir Risalesi</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Hasir.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Hasir.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Hasir.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Hasir.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Hasir.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Hasir.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>12</td>
         <td>Hastalar Risalesi</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Hastalar.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Hastalar.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Hastalar.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Hastalar.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Hastalar.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Hastalar.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>13</td>
         <td>Hizmet Rehberi</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Hizmet.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Hizmet.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Hizmet.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Hizmet.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Hizmet.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Hizmet.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>14</td>
         <td>Hutbe-i Şamiye</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/HutbeDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/HutbeDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/HutbeDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/HutbeDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/HutbeDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/HutbeDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>15</td>
         <td>İhlas Risaleleri</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/IhlasDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/IhlasDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/IhlasDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/IhlasDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/IhlasDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/IhlasDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>16</td>
         <td>İşarat-ül İ'caz</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/IsIcaz.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/IsIcaz.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/IsIcaz.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/IsIcaz.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/IsIcaz.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/IsIcaz.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>17</td>
         <td>İman ve Küfür Muavezeneleri</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/iMAN-VE-KuFuR-MUVAZENELERi.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/iMAN-VE-KuFuR-MUVAZENELERi.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/iMAN-VE-KuFuR-MUVAZENELERi.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/iMAN-VE-KuFuR-MUVAZENELERi.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/iMAN-VE-KuFuR-MUVAZENELERi.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/iMAN-VE-KuFuR-MUVAZENELERi.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>18</td>
         <td>Kastamonu Lâhikası</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/kastamonu.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/kastamonu.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/kastamonu.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/kastamonu.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/kastamonu.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/kastamonu.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>19</td>
         <td>Risale-i Nur Hakkında Verilen Bir Konferans</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/konferans.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/konferans.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/konferans.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/konferans.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/konferans.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/konferans.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>20</td>
         <td>Küçük Sözler</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/KSozler.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/KSozler.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/KSozler.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/KSozler.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/KSozler.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/KSozler.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>21</td>
         <td>Lem'alar</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Lemalar.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Lemalar.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Lemalar.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Lemalar.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Lemalar.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Lemalar.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>22</td>
         <td>Mektûbat</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Mektubat.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Mektubat.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Mektubat.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Mektubat.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Mektubat.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Mektubat.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>23</td>
         <td>Mesnevi-i Nuriye</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Mesnevi.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Mesnevi.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Mesnevi.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Mesnevi.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Mesnevi.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Mesnevi.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>24</td>
         <td>Meyve Risalesi</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/MeyveDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/MeyveDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/MeyveDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/MeyveDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/MeyveDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/MeyveDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>25</td>
         <td>Miftah-ul İman</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/MiftahDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/MiftahDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/MiftahDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/MiftahDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/MiftahDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/MiftahDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>26</td>
         <td>Mi'rac ve Şakk-ı Kamer Risaleleri</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/mirac.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/mirac.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/mirac.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/mirac.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/mirac.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/mirac.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>27</td>
         <td>Mu'cizat-ı Kur'aniye</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/mucizatikuraniye.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/mucizatikuraniye.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/mucizatikuraniye.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/mucizatikuraniye.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/mucizatikuraniye.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/mucizatikuraniye.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>28</td>
         <td>Muhakemat</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Muhakmat.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Muhakmat.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Muhakmat.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Muhakmat.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Muhakmat.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Muhakmat.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>29</td>
         <td>Münâzarât</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/MunazaratDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/MunazaratDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/MunazaratDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/MunazaratDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/MunazaratDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/MunazaratDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>30</td>
         <td>Münâcât</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/munacat.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/munacat.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/munacat.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/munacat.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/munacat.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/munacat.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>31</td>
         <td>Nur'un İlk Kapısı</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/NKapisiDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/NKapisiDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/NKapisiDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/NKapisiDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/NKapisiDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/NKapisiDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>32</td>
         <td>Otuzüç Pencere</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/OtuzucPencere.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/OtuzucPencere.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/OtuzucPencere.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/OtuzucPencere.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/OtuzucPencere.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/OtuzucPencere.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>33</td>
         <td>Ramazan İktisat-Şükür Risaleleri</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Ramazan.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Ramazan.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Ramazan.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Ramazan.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Ramazan.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Ramazan.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>34</td>
         <td>Sözler</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Sozler.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Sozler.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Sozler.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Sozler.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Sozler.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Sozler.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>35</td>
         <td>Sikke-i Tasdik-ı Gaybi</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/STasdikDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/STasdikDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/STasdikDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/STasdikDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/STasdikDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/STasdikDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>36</td>
         <td>Şualar</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/SualarDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/SualarDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/SualarDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/SualarDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/SualarDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/SualarDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>37</td>
         <td>Tabiat Risalesi</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/Tabiat.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/Tabiat.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/Tabiat.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/Tabiat.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/Tabiat.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/Tabiat.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>38</td>
         <td>Bediüzzaman Sadi Nursi Tarihçe-i Hayatı</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/TarihceDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/TarihceDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/TarihceDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/TarihceDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/TarihceDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/TarihceDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>39</td>
         <td>Uhuvvet Risalesi</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/UhuvvetDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/UhuvvetDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/UhuvvetDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/UhuvvetDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/UhuvvetDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/UhuvvetDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     <tr>
         <td>40</td>
         <td>Zühretünnur</td>
-        <td><a href="https://hykulliyat.github.io/pdf-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/pdf/ZuhretnurDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
-        <td><a href="https://hykulliyat.github.io/viewer/ePubViewer3/?file=https://hykulliyat.github.io/assets/RNK-EPUB/epub/ZuhretnurDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="indir" title="OKU EPUB"></a></td>
-        <td><a href="https://hykulliyat.github.io/docx-viewer/?file=https://hykulliyat.github.io/assets/RNK-EPUB/odt/ZuhretnurDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
+        <td><a href="https://hy-turkce.github.io/pdf-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/pdf/ZuhretnurDuzeltilmis.pdf"  rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a></td>
+        <td><a href="https://hy-turkce.github.io/viewer/ePubViewer3/?file=https://hy-turkce.github.io/assets/RNK-EPUB/epub/ZuhretnurDuzeltilmis.epub" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="indir" title="OKU EPUB"></a></td>
+        <td><a href="https://hy-turkce.github.io/docx-viewer/?file=https://hy-turkce.github.io/assets/RNK-EPUB/odt/ZuhretnurDuzeltilmis.odt" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.oasis.opendocument.text target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR ODT"></a></td>
     </tr>
     </tbody>
 </table>
@@ -1821,21 +1821,21 @@ function searchTable2() {
 <details class="akerdion">
   <summary class="ozet">HAZRETİ MUHAMMED (SAV)</summary>
   <ul>
-  <li data-src="https://hykulliyat.github.io/assets/MP3/hazreti_muhammed_tr.mp3">Hazreti Muhammed (SAV)'in Yaşamı ve Ahlakı</li></ul>
+  <li data-src="https://hy-turkce.github.io/assets/MP3/hazreti_muhammed_tr.mp3">Hazreti Muhammed (SAV)'in Yaşamı ve Ahlakı</li></ul>
 </details>
 
 <details class="akerdion">
   <summary class="ozet">KURAN'I REHBER EDİNMEK</summary>
   <ul>
-  <li data-src="https://hykulliyat.github.io/assets/MP3/Rehber_Edinmek_01.mp3">Kuran'ı Rehber Edinmek</li></ul>
+  <li data-src="https://hy-turkce.github.io/assets/MP3/Rehber_Edinmek_01.mp3">Kuran'ı Rehber Edinmek</li></ul>
 </details>
 
 
 <details class="akerdion">
   <summary class="ozet">KURAN AHLAKI</summary>
   <ul>
-  <li data-src="https://hykulliyat.github.io/assets/MP3/kuranahlaki01.mp3">Kuran Ahlakı - Bölüm 1</li>
-  <li data-src="https://hykulliyat.github.io/assets/MP3/kuranahlaki02.mp3">Kuran Ahlakı - Bölüm 2</li></ul>
+  <li data-src="https://hy-turkce.github.io/assets/MP3/kuranahlaki01.mp3">Kuran Ahlakı - Bölüm 1</li>
+  <li data-src="https://hy-turkce.github.io/assets/MP3/kuranahlaki02.mp3">Kuran Ahlakı - Bölüm 2</li></ul>
 </details>
 </section> <!-- section-audio -->
 
