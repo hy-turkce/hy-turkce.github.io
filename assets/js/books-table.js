@@ -69,40 +69,40 @@ async function loadBooksTable() {
             // PDF Link
             const tdPdf = document.createElement('td');
             if (pdfPath) {
-                let processedPdfPath = pdfPath.replace('kuranvebilim.github.io', 'hykulliyat.github.io');
+                let processedPdfPath = pdfPath.replace('kuranvebilim.github.io', 'hy-turkce.github.io');
                 processedPdfPath = processedPdfPath.replace('Harun_Yahya_Kitaplar', 'Harun-Yahya-Kitaplar');
                 const urlParts = processedPdfPath.split('/');
                 const filename = urlParts.pop();
                 const encodedFilename = encodeURIComponent(filename);
                 processedPdfPath = urlParts.join('/') + '/' + encodedFilename;
-                tdPdf.innerHTML = `<a href="https://hykulliyat.github.io/pdf-viewer/?file=${processedPdfPath}" rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a>`;
+                tdPdf.innerHTML = `<a href="https://hy-turkce.github.io/pdf-viewer/?file=${processedPdfPath}" rel="alternate bookmark nofollow" hreflang=tr type=application/pdf target="_blank"><img src="/assets/img/pdf.png" alt="indir" title="İNDİR PDF"></a>`;
             }
             tr.appendChild(tdPdf);
             
             // EPUB Link
             const tdEpub = document.createElement('td');
             if (epubPath) {
-                let processedEpubPath = epubPath.replace('kuranvebilim.github.io', 'hykulliyat.github.io');
+                let processedEpubPath = epubPath.replace('kuranvebilim.github.io', 'hy-turkce.github.io');
                 processedEpubPath = processedEpubPath.replace('Harun_Yahya_Kitaplar', 'Harun-Yahya-Kitaplar');
                 const urlParts = processedEpubPath.split('/');
                 const filename = urlParts.pop();
                 const encodedFilename = encodeURIComponent(filename);
                 processedEpubPath = urlParts.join('/') + '/' + encodedFilename;
-                tdEpub.innerHTML = `<a href="https://hykulliyat.github.io/epub-viewer/?file=${processedEpubPath}" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a>`;
+                tdEpub.innerHTML = `<a href="https://hy-turkce.github.io/epub-viewer/?file=${processedEpubPath}" rel="alternate bookmark nofollow" hreflang=tr type=application/epub+zip target="_blank"><img src="/assets/img/epub.png" alt="oku" title="OKU EPUB"></a>`;
             }
             tr.appendChild(tdEpub);
             
             // DOCX Link (changed from ODT to DOCX)
             const tdDocx = document.createElement('td');
             if (docPath) {
-                let processedDocPath = docPath.replace('kuranvebilim.github.io', 'hykulliyat.github.io');
+                let processedDocPath = docPath.replace('kuranvebilim.github.io', 'hy-turkce.github.io');
                 processedDocPath = processedDocPath.replace('Harun_Yahya_Kitaplar', 'Harun-Yahya-Kitaplar');
                 processedDocPath = processedDocPath.replace(/\.doc$/, '.docx');
                 const urlParts = processedDocPath.split('/');
                 const filename = urlParts.pop();
                 const encodedFilename = encodeURIComponent(filename);
                 processedDocPath = urlParts.join('/') + '/' + encodedFilename;
-                tdDocx.innerHTML = `<a href="https://hykulliyat.github.io/docx-viewer/?file=${processedDocPath}" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.openxmlformats-officedocument.wordprocessingml.document target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR DOCX"></a>`;
+                tdDocx.innerHTML = `<a href="https://hy-turkce.github.io/docx-viewer/?file=${processedDocPath}" rel="alternate bookmark nofollow" hreflang=tr type=application/vnd.openxmlformats-officedocument.wordprocessingml.document target="_blank"><img src="/assets/img/odt.png" alt="indir" title="YAZDIR DOCX"></a>`;
             }
             tr.appendChild(tdDocx);
             
