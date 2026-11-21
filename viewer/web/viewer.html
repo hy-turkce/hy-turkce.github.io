@@ -41,6 +41,13 @@ See https://github.com/adobe-type-tools/cmap-resources
   </head>
 
   <body tabindex="1">
+    <!-- Basit PDF Arama Kutusu -->
+    <div id="pdf-search-bar" style="padding: 10px; background: #e3f2fd; border-bottom: 2px solid #1976d2; text-align: center; font-family: Arial, sans-serif; display: none;">
+      <input type="text" id="pdf-search-input" placeholder="PDF'de arama yapın (Ctrl+F ile açılır/kapanır)" style="padding: 10px 16px; width: 320px; border: 1px solid #90caf9; border-radius: 6px; font-size: 14px; outline: none;">
+      <button id="pdf-search-btn" style="padding: 10px 20px; background: #1976d2; color: white; border: none; border-radius: 6px; font-size: 14px; cursor: pointer; margin-left: 8px;">Ara</button>
+      <button id="pdf-search-close" style="padding: 10px 20px; background: #dc3545; color: white; border: none; border-radius: 6px; font-size: 14px; cursor: pointer; margin-left: 8px;">Kapat</button>
+      <span id="pdf-search-result" style="margin-left: 16px; font-size: 14px; color: #666;"></span>
+    </div>
     <div id="outerContainer">
 
       <div id="sidebarContainer">
@@ -401,6 +408,47 @@ See https://github.com/adobe-type-tools/cmap-resources
     <img src="https://counter2001.herokuapp.com/ingress/f7f40a7f-4a42-40dd-be33-a5486acb6e23/pixel.gif" alt="Counter" title="Harun Yahya">
 </noscript>
 <script defer src="https://counter2001.herokuapp.com/ingress/f7f40a7f-4a42-40dd-be33-a5486acb6e23/script.js" integrity="sha256-gqdsaYEbex6HeB/Zsa2O0nZ0kyU7hXZ10wvHfbmf7uk=" crossorigin="anonymous"></script>
+
+<!-- Basit PDF Arama Kutusu Scripti -->
+<script>
+(function() {
+  var searchBar = document.getElementById('pdf-search-bar');
+  var searchInput = document.getElementById('pdf-search-input');
+  var searchBtn = document.getElementById('pdf-search-btn');
+  var searchClose = document.getElementById('pdf-search-close');
+  var searchResult = document.getElementById('pdf-search-result');
+
+  function toggleSearch() {
+    if (searchBar.style.display === 'none') {
+      searchBar.style.display = 'block';
+      searchInput.focus();
+    } else {
+      searchBar.style.display = 'none';
+    }
+  }
+
+  function doSearch() {
+    var phrase = searchInput.value.trim();
+    if (phrase && typeof PDFViewerApplication !== 'undefined') {
+      PDFViewerApplication.find(phrase);
+      searchResult.textContent = 'Arama: "' + phrase + '"';
+    }
+  }
+
+  searchBtn.addEventListener('click', doSearch);
+  searchInput.addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') doSearch();
+  });
+  searchClose.addEventListener('click', toggleSearch);
+
+  document.addEventListener('keydown', function(e) {
+    if (e.ctrlKey && e.key === 'f') {
+      e.preventDefault();
+      toggleSearch();
+    }
+  });
+})();
+</script>
 
   </body>
 </html>
